@@ -20,4 +20,4 @@
   ```
   EbanLee/kobart-summary-v3
   ```
-  <img width="1602" height="530" alt="Frame 3" src="https://github.com/user-attachments/assets/972b5706-55a7-47ef-ac62-c18504dcc4ed" />
+  <img width="1602" height="530" alt="Frame 3 (1)" src="https://github.com/user-attachments/assets/b1e55a18-ae80-448d-b296-bedfaa255aba" />
