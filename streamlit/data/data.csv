@@ -1,0 +1,14 @@
+date,score,emotion,summary
+2026-03-17,70,"sad, embarrassed",슬픔 당황
+2026-03-17,72,happy,행복
+2026-03-17,74,angry,분노
+2026-03-17,82,"heartache, sad, embarrassed, anxious",상처 슬픔 당황 불안
+2026-03-17,88,"happy, heartache, sad",행복 상처 슬픔
+2026-03-17,94,"happy, heartache, angry",행복 상처 분노
+2026-03-17,96,angry,분노
+2026-03-17,100,"happy, sad",행복 슬픔
+2026-03-17,102,sad,슬픔
+2026-03-17,104,sad,슬픔
+2026-03-17,108,"happy, heartache",행복 상처
+2026-03-17,110,happy,행복
+2026-03-17,112,happy,행복
