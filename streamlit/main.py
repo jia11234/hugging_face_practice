@@ -255,6 +255,10 @@ if st.button("일기 작성 완료"):
                 padding-bottom: 5px;
                 border-left: 10px solid #5BA653;
                 border-radius: 10px;
+<<<<<<< HEAD
+=======
+                margin-top: 20px;
+>>>>>>> 338853f9ef0e976348b995f85f4db1c64669c069
                 margin-bottom: 20px;
             ">
                 <p style="font-family: 'Noto Sans KR'; color: #000000; font-style: italic;">
@@ -274,6 +278,7 @@ if st.button("일기 작성 완료"):
         }])
         score_df = pd.concat([score_df, df], ignore_index=True)
 
+<<<<<<< HEAD
         score_df.to_csv("data/data.csv", index=False)
     else:
         st.warning("내용을 입력해주세요.")
@@ -284,3 +289,8 @@ st.markdown(
         """,
         unsafe_allow_html=True
     )
+=======
+        score_df.to_csv("data.csv", index=False)
+    else:
+        st.warning("내용을 입력해주세요.")
+>>>>>>> 338853f9ef0e976348b995f85f4db1c64669c069
