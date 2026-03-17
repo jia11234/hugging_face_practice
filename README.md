@@ -5,7 +5,7 @@
 일기의 감정을 분석하여 감정이 많을수록 나무가 더 잘 자라납니다.<br>
 뿐만 아니라 일기를 한 줄 요약해 드립니다.<br>
 나무를 기르면서 즐겁게 일기를 작성해보세요!<br>
-<img src="https://github.com/user-attachments/assets/f5220e87-238a-49eb-9db6-fafffa07feae" width="600">
+<img src="https://github.com/user-attachments/assets/f5220e87-238a-49eb-9db6-fafffa07feae" width="450">
 
 ### 활용한 모델
 - 문장 감정 분석 모델<br>
